@@ -1,10 +1,11 @@
+import java.util.List;
 import java.util.Set;
 import java.util.logging.Handler;
 
 public class Deck {
 
     private Integer numOfDecks;
-    private Card [] deck;
+    private List<Card> deck;
 
     public Deck(){
 
