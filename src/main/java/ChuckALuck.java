@@ -1,13 +1,14 @@
-public class Gofish implements Bin  {
-
-    private Player player;
+public class ChuckALuck {
     private Dealer dealer;
-    private Deck deck;
+    private Player player;
+    private
 
+    @Override
     public void add(Integer valueOfDice) {
 
     }
 
+    @Override
     public void remove(Integer index) {
 
     }

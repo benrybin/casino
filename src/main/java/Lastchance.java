@@ -1,12 +1,17 @@
-public class Lastchance {
+import java.util.List;
 
-    public lastChanceSetup(){
+public class Lastchance {
+    private Player player;
+    private Dealer dealer;
+    private List<Dice> bin;
+
+    public void lastChanceSetup(){
     }
-    public printGame(){
+    public void printGame(){
     }
-    public checkWinLC(){
+    public void checkWinLC(){
     }
-    public playAgain(){
-        
+    public void playAgain(){
+
     }
 }
